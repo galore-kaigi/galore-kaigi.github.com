@@ -1,0 +1,18 @@
+h1 {
+  text-align: center; }
+
+h4 {
+  padding: 10px 0;
+  text-align: center; }
+
+.kaigi {
+  background-color: #f5f5f5;
+  margin-bottom: 20px;
+  padding: 20px; }
+  .kaigi .information * {
+    vertical-align: middle; }
+  .kaigi h3 {
+    margin: 5px 0; }
+  .kaigi ul {
+    margin: 0;
+    padding: 0; }
