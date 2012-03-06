@@ -8,6 +8,22 @@ h4 {
   text-align: center;
 }
 
+.navbar {
+  .navbar-inner {
+    .container {
+      position: relative;
+
+      .social-widgets {
+        position: absolute;
+        right: 0;
+        top: 10px;
+
+        color: #fff;
+      }
+    }
+  }
+}
+
 .main {
   margin-top: 60px;
 }

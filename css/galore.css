@@ -6,6 +6,14 @@ h4 {
   padding: 7px 0;
   text-align: center; }
 
+.navbar .navbar-inner .container {
+  position: relative; }
+  .navbar .navbar-inner .container .social-widgets {
+    position: absolute;
+    right: 0;
+    top: 10px;
+    color: #fff; }
+
 .main {
   margin-top: 60px; }
 
