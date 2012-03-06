@@ -18,7 +18,9 @@ h4 {
         right: 0;
         top: 10px;
 
-        color: #fff;
+        * {
+          vertical-align: top;
+        }
       }
     }
   }

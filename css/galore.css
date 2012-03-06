@@ -11,8 +11,9 @@ h4 {
   .navbar .navbar-inner .container .social-widgets {
     position: absolute;
     right: 0;
-    top: 10px;
-    color: #fff; }
+    top: 10px; }
+    .navbar .navbar-inner .container .social-widgets * {
+      vertical-align: top; }
 
 .main {
   margin-top: 60px; }
