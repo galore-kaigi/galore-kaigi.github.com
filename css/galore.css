@@ -18,13 +18,23 @@ h4 {
   .kaigi ul {
     margin: 0;
     padding: 0; }
+  .kaigi p {
+    margin: 0; }
 
 .about {
+  margin: 20px 0;
   padding: 20px;
   border: 1px solid #ccc; }
   .about h3 {
     margin-bottom: 10px;
     border-bottom: 1px solid #ccc; }
+  .about p {
+    margin: 0; }
+
+.photo {
+  margin: 20px 0;
+  padding: 5px;
+  border: 1px solid #ccc; }
 
 footer {
   text-align: center;
