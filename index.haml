@@ -8,12 +8,13 @@
     %link{ :rel => "stylesheet", :type => "text/css", :href => "css/bootstrap.min.css" }
     %link{ :rel => "stylesheet", :type => "text/css", :href => "css/galore.css" }
   %body
-    .navbar
+    .navbar.navbar-fixed-top
       .navbar-inner
         .container
           %a.brand{ :href => url }
             GaloreKaigi
-    .container
+
+    .main.container
       .row
         .span12
           .hero-unit
@@ -139,6 +140,7 @@
           .photo
             :plain
               <a href="http://www.flickr.com/photos/june29/6931316605/" title="ガローア会議02 by june29, on Flickr"><img src="http://farm8.staticflickr.com/7038/6931316605_5b7726e90a.jpg" width="500" height="374" alt="ガローア会議02"></a>
+            %h4 「ガローア会議02」の様子
 
       .row
         .span12

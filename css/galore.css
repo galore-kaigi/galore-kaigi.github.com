@@ -2,8 +2,12 @@ h1 {
   text-align: center; }
 
 h4 {
-  padding: 10px 0;
+  background-color: #f5f5f5;
+  padding: 7px 0;
   text-align: center; }
+
+.main {
+  margin-top: 60px; }
 
 .kaigi {
   background-color: #f5f5f5;
